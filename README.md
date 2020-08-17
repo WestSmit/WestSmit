@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![alt text](https://media.giphy.com/media/3o6ZsX2OZJ8G3Tec6Y/source.gif)
 <!--
 **WestSmit/WestSmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
