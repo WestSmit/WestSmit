@@ -5,7 +5,15 @@
 <a href="https://linkedin.com/in/westsmit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="westsmit" height="30" width="30" /></a>
 </p>
 <h4 align="center">Public repositories stats</h4>
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=WestSmit icons=true alt=WestSmit /> </p>
+<p align="center"> 
+  <img src=https://github-readme-stats.vercel.app/api?username=WestSmit&count_private=true&show_icons=true alt=WestSmit />  
+</p>
+<a href="https://github.com/WestSmit/TrueStore-API">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WestSmit&repo=TrueStore-API" />
+</a>
+<a href="https://github.com/WestSmit/TrueStore-Angular">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=WestSmit&repo=TrueStore-Angular" />
+</a> 
 <!--
 **WestSmit/WestSmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
