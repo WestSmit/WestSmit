@@ -8,23 +8,14 @@
 <p align="center"> 
   <img src=https://github-readme-stats.vercel.app/api?username=WestSmit&count_private=true&show_icons=true alt=WestSmit />  
 </p>
-<a href="https://github.com/WestSmit/TrueStore-API">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WestSmit&repo=TrueStore-API" />
-</a>
-<a href="https://github.com/WestSmit/TrueStore-Angular">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=WestSmit&repo=TrueStore-Angular" />
-</a> 
-<!--
-**WestSmit/WestSmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p><h3 align="center">My last pet project</h3></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/WestSmit/TrueStore-API">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WestSmit&repo=TrueStore-API" />
+  </a>
+  <a href="https://github.com/WestSmit/TrueStore-Angular">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=WestSmit&repo=TrueStore-Angular" />
+  </a> 
+  
+<img width=200px src=https://github.com/WestSmit/TrueStore-Angular/blob/master/src/assets/screenshot_phone_1.png> <img width=200px src=https://github.com/WestSmit/TrueStore-Angular/blob/master/src/assets/screenshot_phone_2.png> <img width=200px src=https://github.com/WestSmit/TrueStore-Angular/blob/master/src/assets/screenshot_phone_3.png> <img width=200px src=https://github.com/WestSmit/TrueStore-Angular/blob/master/src/assets/screenshot_phone_4.png>
