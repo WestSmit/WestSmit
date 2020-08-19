@@ -9,14 +9,14 @@
   <img src=https://github-readme-stats.vercel.app/api?username=WestSmit&count_private=true&show_icons=true alt=WestSmit />  
 </p>
 
-<p><h3 align="center">My last pet project</h3></p>
-
-  <a href="https://github.com/WestSmit/TrueStore-API">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WestSmit&repo=TrueStore-API" />
-  </a>
-  <a href="https://github.com/WestSmit/TrueStore-Angular">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=WestSmit&repo=TrueStore-Angular" />
-  </a> 
- <p>
-<img width=200px src=https://github.com/WestSmit/TrueStore-Angular/blob/master/src/assets/screenshot_phone_1.png> <img width=200px src=https://github.com/WestSmit/TrueStore-Angular/blob/master/src/assets/screenshot_phone_2.png> <img width=200px src=https://github.com/WestSmit/TrueStore-Angular/blob/master/src/assets/screenshot_phone_3.png> <img width=200px src=https://github.com/WestSmit/TrueStore-Angular/blob/master/src/assets/screenshot_phone_4.png>
-  </p>
+<p><h3 align="center">My favorite pet project</h3></p>
+<p align="center">
+<a href="https://github.com/WestSmit/TrueStore-API">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WestSmit&repo=TrueStore-API" />
+</a>
+<a href="https://github.com/WestSmit/TrueStore-Angular">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=WestSmit&repo=TrueStore-Angular" />
+</a> 
+</p>
+<hr>
+<p align="center"><img width=200px src=https://github.com/WestSmit/TrueStore-Angular/blob/master/src/assets/screenshot_phone_1.png> <img width=200px src=https://github.com/WestSmit/TrueStore-Angular/blob/master/src/assets/screenshot_phone_2.png> <img width=200px src=https://github.com/WestSmit/TrueStore-Angular/blob/master/src/assets/screenshot_phone_3.png> <img width=200px src=https://github.com/WestSmit/TrueStore-Angular/blob/master/src/assets/screenshot_phone_4.png></p>
